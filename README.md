@@ -6,7 +6,7 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=24&duration=2400&pause=800&color=FFFFFF&center=true&vCenter=true&width=980&lines=%24+boot+akash.profile;Loading+Neural+Stack...;Full+Stack+Developer+%7C+AI+Engineer;Competitive+Programmer+%7C+System+Thinker;Welcome+to+my+Mini+World+🌏"
+    srcset="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=24&duration=2400&pause=800&color=FFFFFF&center=true&vCenter=true&width=980&lines=%24+boot+Vinayak.profile;Loading+Neural+Stack...;Full+Stack+Developer+%7C+AI+Engineer;Competitive+Programmer+%7C+System+Thinker;Welcome+to+my+Mini+World+🌏"
   />
   <source
     media="(prefers-color-scheme: light)"
